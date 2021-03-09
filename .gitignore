@@ -1,0 +1,12 @@
+*_temp.tex
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.out
+*.run.xml
+*.synctex.gz
